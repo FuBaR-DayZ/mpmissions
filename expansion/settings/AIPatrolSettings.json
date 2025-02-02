@@ -1,0 +1,1256 @@
+{
+    "m_Version": 22,
+    "Enabled": 1,
+    "DespawnTime": 600.0,
+    "RespawnTime": -1.0,
+    "MinDistRadius": 400.0,
+    "MaxDistRadius": 1000.0,
+    "DespawnRadius": 1100.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "NoiseInvestigationDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "DamageReceivedMultiplier": -1.0,
+    "ObjectPatrols": [],
+    "Patrols": [
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "BigPipe",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5198.3701171875,
+                    336.9360046386719,
+                    9793.1103515625
+                ],
+                [
+                    5279.5,
+                    336.9219970703125,
+                    9780.41015625
+                ],
+                [
+                    5279.89990234375,
+                    336.9119873046875,
+                    9849.330078125
+                ],
+                [
+                    5202.1298828125,
+                    337.114013671875,
+                    9864.0
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Birdeye",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5198.3701171875,
+                    336.9360046386719,
+                    9793.1103515625
+                ],
+                [
+                    5279.5,
+                    336.9219970703125,
+                    9780.41015625
+                ],
+                [
+                    5279.89990234375,
+                    336.9119873046875,
+                    9849.330078125
+                ],
+                [
+                    5202.1298828125,
+                    337.114013671875,
+                    9864.0
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Knight",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5198.3701171875,
+                    336.9360046386719,
+                    9793.1103515625
+                ],
+                [
+                    5279.5,
+                    336.9219970703125,
+                    9780.41015625
+                ],
+                [
+                    5279.89990234375,
+                    336.9119873046875,
+                    9849.330078125
+                ],
+                [
+                    5202.1298828125,
+                    337.114013671875,
+                    9864.0
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Cultist",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 5,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8588.2099609375,
+                    103.30472564697266,
+                    13439.0029296875
+                ],
+                [
+                    8578.5859375,
+                    106.48522186279297,
+                    13465.28125
+                ],
+                [
+                    8605.7177734375,
+                    112.45527648925781,
+                    13521.6259765625
+                ],
+                [
+                    8640.509765625,
+                    120.11822509765625,
+                    13590.3603515625
+                ],
+                [
+                    8641.9765625,
+                    127.32777404785156,
+                    13644.0693359375
+                ],
+                [
+                    8643.5234375,
+                    123.58162689208985,
+                    13609.8486328125
+                ],
+                [
+                    8724.0771484375,
+                    121.00849914550781,
+                    13532.3525390625
+                ],
+                [
+                    8792.484375,
+                    119.34481048583985,
+                    13479.8671875
+                ],
+                [
+                    8843.3583984375,
+                    122.08585357666016,
+                    13469.46484375
+                ],
+                [
+                    8881.1611328125,
+                    121.29359436035156,
+                    13413.06640625
+                ],
+                [
+                    8837.0048828125,
+                    121.07237243652344,
+                    13470.0068359375
+                ],
+                [
+                    8742.0390625,
+                    121.24681091308594,
+                    13516.587890625
+                ],
+                [
+                    8704.23828125,
+                    119.76278686523438,
+                    13546.5166015625
+                ],
+                [
+                    8609.14453125,
+                    113.18451690673828,
+                    13527.6015625
+                ],
+                [
+                    8573.0166015625,
+                    112.24705505371094,
+                    13530.662109375
+                ],
+                [
+                    8563.083984375,
+                    118.17390441894531,
+                    13576.212890625
+                ],
+                [
+                    8500.525390625,
+                    135.5902099609375,
+                    13653.76953125
+                ],
+                [
+                    8456.375,
+                    139.3658447265625,
+                    13677.1279296875
+                ],
+                [
+                    8546.6103515625,
+                    126.12944030761719,
+                    13615.544921875
+                ],
+                [
+                    8566.7470703125,
+                    116.35537719726563,
+                    13563.6884765625
+                ],
+                [
+                    8573.123046875,
+                    112.56271362304688,
+                    13532.7392578125
+                ],
+                [
+                    8563.7001953125,
+                    107.29808807373047,
+                    13476.4658203125
+                ],
+                [
+                    8586.0478515625,
+                    103.66409301757813,
+                    13442.435546875
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "EFTRaiders",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7841.3349609375,
+                    76.69611358642578,
+                    105.50646209716797
+                ],
+                [
+                    7874.43359375,
+                    86.5004653930664,
+                    194.1827392578125
+                ],
+                [
+                    7881.091796875,
+                    88.8189468383789,
+                    247.87342834472657
+                ],
+                [
+                    7804.40625,
+                    88.37928009033203,
+                    365.87762451171877
+                ],
+                [
+                    7792.43017578125,
+                    88.65029907226563,
+                    383.00140380859377
+                ],
+                [
+                    7762.8076171875,
+                    83.7376708984375,
+                    334.8746337890625
+                ],
+                [
+                    7760.65380859375,
+                    84.683837890625,
+                    353.2117919921875
+                ],
+                [
+                    7768.95703125,
+                    88.44590759277344,
+                    421.0120544433594
+                ],
+                [
+                    7781.3388671875,
+                    89.11323547363281,
+                    430.4404296875
+                ],
+                [
+                    7769.263671875,
+                    90.8582534790039,
+                    472.48828125
+                ],
+                [
+                    7776.35693359375,
+                    91.00643920898438,
+                    493.6338195800781
+                ],
+                [
+                    7762.3740234375,
+                    91.01448822021485,
+                    534.7476806640625
+                ],
+                [
+                    7739.28076171875,
+                    91.13427734375,
+                    564.8483276367188
+                ],
+                [
+                    7639.0,
+                    120.3280258178711,
+                    769.7715454101563
+                ],
+                [
+                    7378.47998046875,
+                    94.51292419433594,
+                    764.41748046875
+                ],
+                [
+                    7325.0390625,
+                    93.79295349121094,
+                    820.4214477539063
+                ],
+                [
+                    7323.55419921875,
+                    95.07601928710938,
+                    869.6690673828125
+                ],
+                [
+                    6920.2666015625,
+                    84.64220428466797,
+                    926.835693359375
+                ],
+                [
+                    6942.748046875,
+                    84.11299133300781,
+                    977.515380859375
+                ],
+                [
+                    6901.28759765625,
+                    82.87837982177735,
+                    1002.5807495117188
+                ],
+                [
+                    6848.884765625,
+                    91.49227142333985,
+                    967.189453125
+                ],
+                [
+                    6835.8408203125,
+                    84.59558868408203,
+                    942.7606201171875
+                ],
+                [
+                    6655.30908203125,
+                    92.31884765625,
+                    793.1343383789063
+                ],
+                [
+                    6639.6552734375,
+                    91.83074188232422,
+                    792.5340576171875
+                ],
+                [
+                    6635.73095703125,
+                    92.24980163574219,
+                    780.7630004882813
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Glukhar",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6280.81982421875,
+                    304.9989929199219,
+                    7816.830078125
+                ],
+                [
+                    6342.33984375,
+                    304.9530029296875,
+                    7775.7001953125
+                ],
+                [
+                    6374.31005859375,
+                    304.989990234375,
+                    7797.830078125
+                ],
+                [
+                    6314.43017578125,
+                    304.9110107421875,
+                    7838.60986328125
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "GlukharGuards",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6280.81982421875,
+                    304.9989929199219,
+                    7816.830078125
+                ],
+                [
+                    6342.33984375,
+                    304.9530029296875,
+                    7775.7001953125
+                ],
+                [
+                    6374.31005859375,
+                    304.989990234375,
+                    7797.830078125
+                ],
+                [
+                    6314.43017578125,
+                    304.9110107421875,
+                    7838.60986328125
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Killa",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2679.97998046875,
+                    205.6840057373047,
+                    5271.4501953125
+                ],
+                [
+                    2687.0,
+                    204.46200561523438,
+                    5306.68994140625
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Reshala",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4635.06005859375,
+                    339.0119934082031,
+                    10449.5
+                ],
+                [
+                    4682.009765625,
+                    339.00201416015627,
+                    10491.900390625
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "ReshalaGuards",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4635.06005859375,
+                    339.0119934082031,
+                    10449.5
+                ],
+                [
+                    4682.009765625,
+                    339.00201416015627,
+                    10491.900390625
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Rogues",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1824.93994140625,
+                    294.0660095214844,
+                    3075.0
+                ],
+                [
+                    1884.949951171875,
+                    293.22198486328127,
+                    3047.0
+                ],
+                [
+                    1846.68994140625,
+                    289.88800048828127,
+                    2996.0
+                ],
+                [
+                    1812.780029296875,
+                    290.3330078125,
+                    3001.0
+                ],
+                [
+                    1796.6500244140626,
+                    287.9750061035156,
+                    2990.0
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Sanitar",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1255.699951171875,
+                    295.60101318359377,
+                    11414.7001953125
+                ],
+                [
+                    1281.3800048828126,
+                    294.7430114746094,
+                    11377.0
+                ],
+                [
+                    1287.5400390625,
+                    293.8500061035156,
+                    11432.0
+                ],
+                [
+                    1267.9300537109376,
+                    294.1650085449219,
+                    11462.900390625
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "SanitarGuards",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1255.699951171875,
+                    295.60101318359377,
+                    11414.7001953125
+                ],
+                [
+                    1281.3800048828126,
+                    294.7430114746094,
+                    11377.0
+                ],
+                [
+                    1287.5400390625,
+                    293.8500061035156,
+                    11432.0
+                ],
+                [
+                    1267.9300537109376,
+                    294.1650085449219,
+                    11462.900390625
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Santa",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1824.93994140625,
+                    294.0660095214844,
+                    3075.0
+                ],
+                [
+                    1884.949951171875,
+                    293.22198486328127,
+                    3047.0
+                ],
+                [
+                    1846.68994140625,
+                    289.88800048828127,
+                    2996.0
+                ],
+                [
+                    1812.780029296875,
+                    290.3330078125,
+                    3001.0
+                ],
+                [
+                    1796.6500244140626,
+                    287.9750061035156,
+                    2990.0
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Scavs",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1824.93994140625,
+                    294.0660095214844,
+                    3075.0
+                ],
+                [
+                    1884.949951171875,
+                    293.22198486328127,
+                    3047.0
+                ],
+                [
+                    1846.68994140625,
+                    289.88800048828127,
+                    2996.0
+                ],
+                [
+                    1812.780029296875,
+                    290.3330078125,
+                    3001.0
+                ],
+                [
+                    1796.6500244140626,
+                    287.9750061035156,
+                    2990.0
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Shturman",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5751.830078125,
+                    473.92401123046877,
+                    15220.2998046875
+                ],
+                [
+                    5809.5400390625,
+                    473.8219909667969,
+                    15230.599609375
+                ],
+                [
+                    5824.9599609375,
+                    474.1650085449219,
+                    15191.7001953125
+                ],
+                [
+                    5760.35986328125,
+                    474.4739990234375,
+                    15185.2001953125
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "ShturmanGuards",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5751.830078125,
+                    473.92401123046877,
+                    15220.2998046875
+                ],
+                [
+                    5809.5400390625,
+                    473.8219909667969,
+                    15230.599609375
+                ],
+                [
+                    5824.9599609375,
+                    474.1650085449219,
+                    15191.7001953125
+                ],
+                [
+                    5760.35986328125,
+                    474.4739990234375,
+                    15185.2001953125
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "Tagilla",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "",
+            "Units": [],
+            "NumberOfAI": 4,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8330.08984375,
+                    296.052001953125,
+                    2013.5699462890626
+                ],
+                [
+                    8297.4296875,
+                    296.052001953125,
+                    1893.77001953125
+                ],
+                [
+                    8233.26953125,
+                    296.0140075683594,
+                    1824.449951171875
+                ],
+                [
+                    8076.580078125,
+                    296.052001953125,
+                    1767.199951171875
+                ],
+                [
+                    7967.990234375,
+                    296.052001953125,
+                    1726.2099609375
+                ],
+                [
+                    7832.75,
+                    295.9519958496094,
+                    1629.77001953125
+                ],
+                [
+                    7651.06005859375,
+                    296.052001953125,
+                    1656.7099609375
+                ],
+                [
+                    7838.259765625,
+                    297.78900146484377,
+                    1871.0799560546876
+                ],
+                [
+                    7949.3798828125,
+                    296.26300048828127,
+                    1925.219970703125
+                ],
+                [
+                    8030.02001953125,
+                    296.0539855957031,
+                    1980.199951171875
+                ],
+                [
+                    8083.22021484375,
+                    296.0400085449219,
+                    2041.4100341796876
+                ],
+                [
+                    8229.23046875,
+                    295.9849853515625,
+                    2134.760009765625
+                ],
+                [
+                    8260.8798828125,
+                    296.052001953125,
+                    2149.97998046875
+                ]
+            ]
+        }
+    ]
+}
